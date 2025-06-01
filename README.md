@@ -32,9 +32,11 @@ npm install
 npm run dev
 Then open your browser at http://localhost:3000
 
-📸 Screenshots
+```
 
-![To-Do List App Screenshot](./assets/screenshot.png)
+## 📸 Screenshots
+
+![To-Do List App Screenshot](./src/assets/screenshot.png)
 
 
 
